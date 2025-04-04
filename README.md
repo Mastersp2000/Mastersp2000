@@ -1,8 +1,8 @@
 ## Hi
-* Computer Science Student
-* Software Engineering Intern
-* Discord Bot Developer
-* Game Developer
+* Computer Science Student</br>
+* Software Engineering Intern</br>
+* Discord Bot Developer</br>
+* Game Developer</br>
 <!--
 **Mastersp2000/Mastersp2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
